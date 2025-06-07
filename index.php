@@ -13,6 +13,7 @@ $result = $conn->query("SELECT * FROM datos");
 
 <body>
     <div class="container">
+        <h1>Información de base de datos</h1>
         <table class="table mt-3">
             <tr>
                 <th>ID</th>
